@@ -62,12 +62,14 @@ Python · SQL · PyTorch · scikit-learn · Spark · dbt · Terraform
 ## Currently Reading
 
 <div align="center">
-  <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log">
-    <img src="assets/reading-shelf.svg" alt="Reading shelf: Atlas of AI, Unmasking AI, Fairness and Machine Learning, Automating Inequality, Weapons of Math Destruction" width="900" />
-  </a>
+  <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log/blob/main/READING.md#atlas-of-ai" title="Notes on Atlas of AI"><img src="assets/books/atlas-of-ai.svg" alt="Atlas of AI — Kate Crawford" /></a>
+  <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log/blob/main/READING.md#unmasking-ai" title="Notes on Unmasking AI"><img src="assets/books/unmasking-ai.svg" alt="Unmasking AI — Joy Buolamwini" /></a>
+  <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log/blob/main/READING.md#fairness-and-machine-learning" title="Notes on Fairness and Machine Learning"><img src="assets/books/fairness-and-ml.svg" alt="Fairness and Machine Learning — Barocas, Hardt, Narayanan" /></a>
+  <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log/blob/main/READING.md#automating-inequality" title="Notes on Automating Inequality"><img src="assets/books/automating-inequality.svg" alt="Automating Inequality — Virginia Eubanks" /></a>
+  <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log/blob/main/READING.md#weapons-of-math-destruction" title="Notes on Weapons of Math Destruction"><img src="assets/books/weapons-of-math-destruction.svg" alt="Weapons of Math Destruction — Cathy O'Neil" /></a>
 </div>
 
-<sub>Notes and excerpts live in <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log"><code>ai-ethics-research-log</code></a>.</sub>
+<sub>Click any book for notes. Full index: <a href="https://github.com/AdityaKatheeth/ai-ethics-research-log/blob/main/READING.md"><code>ai-ethics-research-log/READING.md</code></a>.</sub>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="900" /></div>
 

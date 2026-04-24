@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="260" viewBox="0 0 160 260" role="img" aria-label="Fairness and Machine Learning by Barocas Hardt Narayanan">
+  <defs>
+    <linearGradient id="c" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#064E3B"/>
+      <stop offset="8%" stop-color="#0F766E"/>
+      <stop offset="92%" stop-color="#0F766E"/>
+      <stop offset="100%" stop-color="#064E3B"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(15,42)">
+    <rect width="130" height="208" fill="url(#c)" stroke="#0A0F1C" stroke-width="1"/>
+    <line x1="10" y1="8" x2="10" y2="200" stroke="#FDF8F0" stroke-opacity="0.15" stroke-width="0.5"/>
+    <line x1="120" y1="8" x2="120" y2="200" stroke="#0A0F1C" stroke-opacity="0.4" stroke-width="0.5"/>
+    <g transform="translate(55,185) rotate(-90)">
+      <text x="0" y="0" font-family="Georgia, 'IBM Plex Serif', serif" font-size="13" font-weight="500" fill="#FDF8F0">Fairness &amp; ML</text>
+    </g>
+    <g transform="translate(75,185) rotate(-90)">
+      <text x="0" y="0" font-family="'Segoe UI', -apple-system, sans-serif" font-size="9" fill="#FDF8F0" opacity="0.7">BAROCAS HARDT NARAYANAN</text>
+    </g>
+    <text x="65" y="198" font-family="'Segoe UI', -apple-system, sans-serif" font-size="8" fill="#FDF8F0" opacity="0.75" text-anchor="middle" letter-spacing="0.5">MIT PRESS</text>
+  </g>
+</svg>
