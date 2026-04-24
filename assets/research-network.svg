@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-label="Research interest network: algorithmic fairness at the center connected to audits, disparate impact, documentation, governance, high-stakes ML, and responsible AI">
+  <defs>
+    <radialGradient id="centerGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15"/>
+    </linearGradient>
+    <style>
+      .pill { fill: rgba(167,139,250,0.08); stroke: #A78BFA; stroke-width: 1; }
+      .pill-center { fill: rgba(167,139,250,0.18); stroke: #A78BFA; stroke-width: 1.5; }
+      .label { font-family: 'Segoe UI', -apple-system, sans-serif; fill: #E8E6E3; text-anchor: middle; }
+      .label-center { font-family: Georgia, 'IBM Plex Serif', serif; fill: #E8E6E3; text-anchor: middle; font-style: italic; }
+      .perimeter-edge { stroke: #A78BFA; stroke-width: 0.5; stroke-opacity: 0.25; stroke-dasharray: 2,4; fill: none; }
+    </style>
+  </defs>
+
+  <!-- background card -->
+  <rect x="0" y="0" width="900" height="440" rx="8" fill="#0A0F1C"/>
+
+  <!-- subtle scattered dots -->
+  <g fill="#A78BFA" opacity="0.15">
+    <circle cx="80" cy="80" r="1"/>
+    <circle cx="820" cy="60" r="1"/>
+    <circle cx="100" cy="400" r="1"/>
+    <circle cx="820" cy="380" r="1"/>
+    <circle cx="450" cy="30" r="1"/>
+    <circle cx="450" cy="410" r="1"/>
+    <circle cx="30" cy="220" r="1"/>
+    <circle cx="870" cy="220" r="1"/>
+  </g>
+
+  <!-- center radial glow -->
+  <circle cx="450" cy="220" r="180" fill="url(#centerGlow)"/>
+
+  <!-- perimeter dashed edges (adjacent connections) -->
+  <g class="perimeter-edge">
+    <!-- hex outline, connecting adjacent perimeter nodes -->
+    <path d="M 630,220 L 540,64 L 360,64 L 270,220 L 360,376 L 540,376 Z"/>
+  </g>
+
+  <!-- spokes from center to each perimeter node -->
+  <g stroke="url(#edge)" stroke-width="1.2">
+    <line x1="450" y1="220" x2="630" y2="220"/>
+    <line x1="450" y1="220" x2="540" y2="64"/>
+    <line x1="450" y1="220" x2="360" y2="64"/>
+    <line x1="450" y1="220" x2="270" y2="220"/>
+    <line x1="450" y1="220" x2="360" y2="376"/>
+    <line x1="450" y1="220" x2="540" y2="376"/>
+  </g>
+
+  <!-- center node -->
+  <g>
+    <rect x="340" y="198" width="220" height="44" rx="22" class="pill-center"/>
+    <text x="450" y="225" class="label-center" font-size="16" font-weight="500">Algorithmic Fairness</text>
+  </g>
+
+  <!-- perimeter nodes -->
+  <!-- 0° right -->
+  <g>
+    <rect x="550" y="202" width="160" height="36" rx="18" class="pill"/>
+    <text x="630" y="225" class="label" font-size="13">Model Audits</text>
+  </g>
+
+  <!-- 60° upper-right -->
+  <g>
+    <rect x="460" y="46" width="160" height="36" rx="18" class="pill"/>
+    <text x="540" y="69" class="label" font-size="13">Disparate Impact</text>
+  </g>
+
+  <!-- 120° upper-left -->
+  <g>
+    <rect x="280" y="46" width="160" height="36" rx="18" class="pill"/>
+    <text x="360" y="69" class="label" font-size="13">Documentation</text>
+  </g>
+
+  <!-- 180° left -->
+  <g>
+    <rect x="190" y="202" width="160" height="36" rx="18" class="pill"/>
+    <text x="270" y="225" class="label" font-size="13">Governance</text>
+  </g>
+
+  <!-- 240° lower-left -->
+  <g>
+    <rect x="280" y="358" width="160" height="36" rx="18" class="pill"/>
+    <text x="360" y="381" class="label" font-size="13">High-Stakes ML</text>
+  </g>
+
+  <!-- 300° lower-right -->
+  <g>
+    <rect x="460" y="358" width="160" height="36" rx="18" class="pill"/>
+    <text x="540" y="381" class="label" font-size="13">Responsible AI</text>
+  </g>
+
+  <!-- subtle caption -->
+  <text x="450" y="424" font-family="'Courier New', monospace" font-size="10" fill="#E8E6E3" opacity="0.35" text-anchor="middle" letter-spacing="2">RESEARCH INTERESTS</text>
+</svg>
