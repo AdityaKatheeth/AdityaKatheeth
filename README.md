@@ -62,9 +62,9 @@ Algorithmic fairness &nbsp;·&nbsp; disparate impact &nbsp;·&nbsp; model auditi
 
 <!-- snake animation (generated nightly by GitHub Action) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdytheaCutheath/AdytheaCutheath/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdytheaCutheath/AdytheaCutheath/output/snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AdytheaCutheath/AdytheaCutheath/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaKatheeth/AdityaKatheeth/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaKatheeth/AdityaKatheeth/output/snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AdityaKatheeth/AdityaKatheeth/output/snake.svg" />
 </picture>
 
 </div>
