@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="32" viewBox="0 0 140 32" role="img" aria-label="Microsoft Azure">
+  <defs>
+    <linearGradient id="azg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2A8EE8"/>
+      <stop offset="100%" stop-color="#0060B3"/>
+    </linearGradient>
+  </defs>
+  <rect width="140" height="32" rx="6" fill="url(#azg)"/>
+  <g transform="translate(10,8)" fill="#ffffff">
+    <polygon points="6,0 12,14 8,14 4,8 2,14 0,14"/>
+    <polygon points="6,10 10,14 2,14" opacity="0.85"/>
+  </g>
+  <text x="32" y="21" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#ffffff">Azure</text>
+</svg>
