@@ -14,7 +14,7 @@
 
 I work at the intersection of applied machine learning and algorithmic accountability. My day-to-day is cloud data engineering and ML systems; my research direction is algorithmic fairness, auditing, and the governance frameworks that determine how AI systems affect real people.
 
-I hold an M.S. in Computer Science and am pursuing doctoral research with a focus on fairness in high-stakes decision systems — credit, hiring, healthcare, and public-sector risk assessment.
+I hold an M.S. in Artificial Intelligence and am pursuing doctoral research with a focus on fairness in high-stakes decision systems — credit, hiring, healthcare, and public-sector risk assessment.
 
 ---
 
